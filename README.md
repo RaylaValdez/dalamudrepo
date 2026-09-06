@@ -1,4 +1,4 @@
-# Rayla's Plugins
+# Plugins made for FFXIV
 
 ## SimonSays
 ### An emote and positional syncing tool.
