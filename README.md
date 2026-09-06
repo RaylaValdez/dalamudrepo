@@ -24,7 +24,7 @@ subscribed.
 | Plugin | Source | Notes |
 | --- | --- | --- |
 | [ClickToMove](https://github.com/RaylaValdez/ClickToMove) | Click where you wanna go! Shift-click the world to walk there, via vnavmesh pathfinding with a straight line fallback. | Actively maintained. |
-| [SimonSays](https://github.com/RaylaValdez/SimonSays) | Syncs emotes by using the chat itself. | Currently unmaintained; built against an older Dalamud API. |
+| [SimonSays](https://github.com/RaylaValdez/SimonSays) | Syncs emotes by using the chat itself. | Actively maintained. |
 
 Some plugins need companion plugins from other repos. ClickToMove uses
 [vnavmesh](https://puni.sh/api/repository/veyn) for pathfinding when it
